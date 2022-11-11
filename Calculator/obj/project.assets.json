@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Calculator.BuisnessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Calculator.BuisnessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculator.BuisnessLogic.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Calculator.BuisnessLogic/1.0.0": {
+      "type": "project",
+      "path": "../Calculator.BuisnessLogic/Calculator.BuisnessLogic.csproj",
+      "msbuildProject": "../Calculator.BuisnessLogic/Calculator.BuisnessLogic.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Calculator.BuisnessLogic >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/ataev/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/ataev/Рабочий стол/Calc/Calculator.BuisnessLogic/Calculator.BuisnessLogic.csproj": {
+              "projectPath": "/home/ataev/Рабочий стол/Calc/Calculator.BuisnessLogic/Calculator.BuisnessLogic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
