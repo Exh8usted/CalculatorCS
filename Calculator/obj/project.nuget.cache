@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CJpLP/RTfJvFX+OwKOtSkyUGFhaAjC+SF77Urr7WEy3/MXoB4AhduR02fupFCZKeYQN+OoS51wq2TohExDq/AA==",
+  "dgSpecHash": "0zQcNrn+2WptWEI4v4rVQbSwOm/He3Gbwujbhe4eT0STRKvrn6rN/veGAxUj4aAM2ANfDssidP8o3v7HxThAZg==",
   "success": true,
   "projectFilePath": "/home/ataev/Рабочий стол/Calc/Calculator/Calculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ataev/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/ataev/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/ataev/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512"
+  ],
   "logs": []
 }

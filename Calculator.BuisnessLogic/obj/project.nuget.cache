@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YH6RbENSW2FrFOSZ59Imij0F2UDb56c5iSTf6v+ZTaAiDci1L/KPkgjLE5xmwr5serbLZBoRTgteI/GF60fEsA==",
+  "dgSpecHash": "ToHDLjqYCiiFwQDSk5FbuOOqwH0cMdC02solU7ivZXgQXKn/tcA5YNsmNNxjqVZnYw2fMj1OLikt5mKarXBmqA==",
   "success": true,
   "projectFilePath": "/home/ataev/Рабочий стол/Calc/Calculator.BuisnessLogic/Calculator.BuisnessLogic.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ataev/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/ataev/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/ataev/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512"
+  ],
   "logs": []
 }

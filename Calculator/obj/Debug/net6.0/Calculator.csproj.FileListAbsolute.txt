@@ -16,3 +16,4 @@
 /home/ataev/Рабочий стол/Calc/Calculator/bin/Debug/net6.0/Calculator.BuisnessLogic.dll
 /home/ataev/Рабочий стол/Calc/Calculator/bin/Debug/net6.0/Calculator.BuisnessLogic.pdb
 /home/ataev/Рабочий стол/Calc/Calculator/obj/Debug/net6.0/Calculator.csproj.CopyComplete
+/home/ataev/Рабочий стол/Calc/Calculator/bin/Debug/net6.0/nunit.framework.dll
